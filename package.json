@@ -1,0 +1,21 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "This is a basic todo list app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekeyekwu Oscar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
